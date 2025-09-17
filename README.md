@@ -1,5 +1,5 @@
 
-## 📈 Sales KPI Dashboard
+Sales KPI Dashboard
 
 This Power BI dashboard provides an overview of key sales performance indicators including revenue trends, top-performing products, and regional sales breakdowns.
 
